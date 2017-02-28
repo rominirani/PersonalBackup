@@ -1,0 +1,7 @@
+MinioHost = "localhost:9000"
+BackupDirectories = [ "d:\\data1", "d:\\data2","d:\\data3" ]
+BackupFileNamePrefixes = ["data1","data2","data3"]
+AccessKey = "MINIO_ACCESS_KEY"
+SecretKey = "MINIO_SECRET_KEY"
+MinioBackupBucketName = "backups"
+UseSSL = false
